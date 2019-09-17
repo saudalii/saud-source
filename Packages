@@ -1,4 +1,4 @@
-Package: com.Saudalii.Pubg
+Package: Pubg English v0.14.5.deb
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Saud Asiere
@@ -9,7 +9,7 @@ MD5sum: d27915bc453a46d5797d64c1b532c54d
 SHA1: a9b44f076c259c050b48e5c6fc6dc01b623956d3
 SHA256: 1d36acc67cad7aff0dc43d3743baad0091062d5a7c91f9b4a94554941cd02f6f
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: An awesome Pubg mobile tweak!
 Author: Saud Asiere
 Depiction: https://saudalii.github.io/saud-source/depictions/?p=saud-source
 Installed-Size: 84
