@@ -14,7 +14,26 @@
         },
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "DESCRIPTION"
+					"markdown": "PUBG HACK FOR 0.14.0 HACK FUTURES
+Aimbot with fire ايم بوت عند الطلق بالسلاح
+auto aim التوجيه التلقائي ع العدو
+old aimbot  الايم بوت القديم
+hide grass اخفاء العشب
+enemy size تكبير الخصم
+fov التحكم بمدى الكامرا
+damage زيادة دمج ع الخصم
+no recoil ثبات سلاح
+no spread عدم انتشار الرصاص
+camera recoil ثبات الكامرا
+car fly طيران السيارة
+car fast تسريع السيارة
+speed move سلايدر سرعه اللاعب
+fast move زحف سريع
+high jump نطة طويلة
+no gravity ازالة الجاذبية طيران بالجو
+ski تزلج
+small crosshair اشارك الطلق صغيرة
+scope x تكبير السكوب"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -24,43 +43,43 @@
 					"class": "DepictionHeaderView"
 				},
 				{
-					"title": "Version",
-					"text": "VERSION",
+					"title": "VERSION",
+					"text": "0.14.0",
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Last Updated",
-					"text": "LAST_UPDATED",
+					"title": "LAST UPDATED",
+					"text": "Moharam 18, 1441",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "License",
-					"text": "LICENSE",
+					"text": "FREE",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Compatibility",
-					"text": "COMPATIBILTY",
+					"text": "11.4.1 - 12.4",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Developer",
-					"text": "DEVELOPER",
+					"text": "Saud",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Maintainer",
-					"text": "MAINTAINER",
+					"text": "Saud",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Contact Developer",
-					"action": "mailto:EMAIL",
+					"action": "mailto:saudali57357@gmail.com",
 					"class": "DepictionTableButtonView"
 				},
 				{
 					"title": "Contact Maintainer",
-					"action": "mailto:EMAIL",
+					"action": "mailto:saudali1427@gmail.com",
 					"class": "DepictionTableButtonView"
 				},
 				{
