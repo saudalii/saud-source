@@ -1,9 +1,9 @@
-Package: com.shiarahmed.snapchat
+Package: com.Saudalii.Pubg
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Saud Asiere
 Depends: mobilesubstrate
-Filename: ./debs/com.shiarahmed.snapchat_1.0_iphoneos-arm.deb
+Filename: ./com.saudalii.Pubg English v0.14.5.deb
 Size: 6492
 MD5sum: d27915bc453a46d5797d64c1b532c54d
 SHA1: a9b44f076c259c050b48e5c6fc6dc01b623956d3
@@ -11,7 +11,7 @@ SHA256: 1d36acc67cad7aff0dc43d3743baad0091062d5a7c91f9b4a94554941cd02f6f
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Saud Asiere
-Depiction: https://saudalii.github.io/saud-source/depictions/?p=test
+Depiction: https://saudalii.github.io/saud-source/depictions/?p=saud-source
 Installed-Size: 84
 Name: Snapchat
-SileoDepiction: https://saudalii.github.io/saud-source/sileodepictions/snapchat.json
+SileoDepiction: https://saudalii.github.io/saud-source/sileodepictions/PUBG 0.14.0 Hack.json
